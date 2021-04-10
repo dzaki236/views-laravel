@@ -13,7 +13,7 @@
                     CRUD Data Pegawai - <strong>EDIT DATA</strong> 
                 </div>
                 <div class="card-body">
-                    <a href="/" class="btn btn-primary">Kembali</a>
+                    <a href="" class="btn btn-primary">Kembali</a>
                     <br/>
                     <br/>
                     <form method="post" action="">
