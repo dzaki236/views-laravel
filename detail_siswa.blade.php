@@ -16,7 +16,7 @@
                     <a href="" class="btn btn-primary">Kembali</a>
                     <br/>
                     <br/>
-                    <form method="post" action="/siswa/update/{{ $siswas->id }}">
+                    <form method="post" action="">
 
 <hr>
                         <div class="form-group">
